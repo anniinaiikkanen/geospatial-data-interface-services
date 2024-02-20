@@ -1,0 +1,15 @@
+<!DOCTYPE connections>
+<qgsWCSConnections version="1.0">
+    <wcs username="" name="Helsingin kaupunki" url="https://kartta.hel.fi/ws/geoserver/avoindata/wcs" password=""/>
+    <wcs username="" name="Maanmittauslaitos - Ortokuvat ja korkeusmallit" url="https://avoin-karttakuva.maanmittauslaitos.fi/ortokuvat-ja-korkeusmallit/wcs/v2" password=""/>
+    <wcs username="" name="Syke - Kasvukauden alku havumetsissa" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_kasvukaudenalkuhavumetsissa/wcs" password=""/>
+    <wcs username="" name="Syke - Kasvukauden alku lehtimetsissa" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_kasvukaudenalkulehtimetsissa/wcs" password=""/>
+    <wcs username="" name="Syke - Maanpeite soilla ja rantakosteikoilla" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_maanpeitesuotkosteikot/wcs" password=""/>
+    <wcs username="" name="Syke - Monimuotoisuudelle tarkeat metsaalueet (Zonation)" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_monimuotoisuudelletarkeatmetsaalueetzonation/wcs" password=""/>
+    <wcs username="" name="Syke - Potentiaaliset tulvametsat ja metsaluhdat" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_potentiaalisettulvametsat/wcs" password=""/>
+    <wcs username="" name="Syke - Scalgo maanpeite" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_maanpeitescalgo/wcs" password=""/>
+    <wcs username="" name="Syke - Siltojen kansien korkeudet" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_siltojenkorkeus/wcs" password=""/>
+    <wcs username="" name="Syke - Soiden ojitustilanne" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_soidenojitustilanne/wcs" password=""/>
+    <wcs username="" name="Syke - Tunturialueet" url="https://paikkatiedot.ymparisto.fi/geoserver/syke_tunturialue/wcs" password=""/>
+    <wcs username="" name="Traficom - Syvyysmalli" url="https://julkinen.traficom.fi/inspirepalvelu/syvyysmalli/wcs" password=""/>
+</qgsWCSConnections>
